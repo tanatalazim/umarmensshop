@@ -1,0 +1,6 @@
+{
+  "name": "UMAR MENS SHOP — E-Commerce Platform",
+  "description": "Полноценная e-commerce система мужской одежды в Алматы с изолированными зонами доступа, складом, Kaspi Pay и Telegram",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
